@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\leple\OneDrive\Documents\AoC\AoC_Java\.metadata\.plugins\org.eclipse.jdt.core
+3959137331.index
+3471621430.index
+1474686092.index
+1865797976.index

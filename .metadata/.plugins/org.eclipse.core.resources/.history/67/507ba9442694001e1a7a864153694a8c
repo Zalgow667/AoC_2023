@@ -1,0 +1,32 @@
+package solve;
+
+import java.io.*;
+import java.nio.file.*;
+import java.util.*;
+
+public class day6 {
+	public static void main(String[] args) throws IOException {
+		String content = new String(Files.readAllBytes(Paths.get("src\\input.txt"))).trim();
+		String[] value = content.split("[0-9]\n");
+		
+		String duration = value[0];
+		
+		ArrayList<int[]> test = new ArrayList();
+		
+		int[] time = (Arrays.stream(duration.split(":")[1]
+				.split("\\s+"))
+				.filter(s -> !s.isEmpty())
+				.mapToInt(Integer::parseInt).toArray());
+		
+		int
+	
+		
+		for(int i : duree) {
+			System.out.println(i);
+		}
+	}
+	
+	void solve1(int race) {
+		
+	}
+}
